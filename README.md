@@ -8,4 +8,4 @@ https://github.com/mdadams/jasper/issues/120
 Usage: jasper --input [file] --output /dev/null --output-format jp2
 
 Found with afl
-
+http://lcamtuf.coredump.cx/afl/
